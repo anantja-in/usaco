@@ -11,3 +11,6 @@
 *.lai
 *.la
 *.a
+
+# Compiled C++ code
+a.out
